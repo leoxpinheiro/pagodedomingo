@@ -1,0 +1,5 @@
+{
+  "name": "Pagode de Domingo - Gestão",
+  "description": "A comprehensive SaaS-style dashboard for managing recurring Sunday events. Features include financial tracking, event scheduling, profit calculation with break-even analysis, and FIFO payment logic for owner withdrawals.",
+  "requestFramePermissions": []
+}
